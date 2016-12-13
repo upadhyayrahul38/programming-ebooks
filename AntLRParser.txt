@@ -1,0 +1,7 @@
+If you want to avoid downloading this additional JAR, you need to
+install an additional feature into your Eclipse. Use this update site:
+http://download.itemis.com/updates/releases/
+Navigate to the Xtext Antlr category and install the feature Xtext
+Antlr SDK Feature. When you restarted Eclipse, if you create
+a new Xtext project from scratch and you run Generate Xtext
+Artifacts, then the additional JAR is not needed anymore.
